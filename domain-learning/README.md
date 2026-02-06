@@ -1,21 +1,5 @@
 # Domain: Learning
 
-This domain captures knowledge, architectural decisions, and patterns discovered during system development.
+This domain belongs to the Librarian. Don't change it! If you have corrections, ask the Librarian to make them.
 
-## Responsibilities
-
-- Documenting architectural decisions
-- Capturing learned patterns and anti-patterns
-- Maintaining system architecture documentation
-- Providing knowledge to other domains
-
-## Boundaries
-
-This domain does NOT:
-- Execute code changes (see domain-code)
-- Track task status (see domain-tasks)
-
-## Structure
-
-- `architecture.md`: High-level system architecture
-- `decisions/`: Architectural Decision Records (ADRs)
+The usual way of accessing the information here is: ask the Librarian.
